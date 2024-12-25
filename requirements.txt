@@ -1,0 +1,11 @@
+dash===2.18.2
+dash-bootstrap-components===1.6.0
+numpy===2.1.2 
+opencv-python===4.10.0.84 
+openpyxl===3.1.5
+pandas===2.2.3 
+pillow===11.0.0 
+# keras===3.6.0 
+# scikit-learn===1.5.2 
+# matplotlib===3.9.2 
+# tensorflow===1.8.0 
