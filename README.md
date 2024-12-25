@@ -90,14 +90,14 @@ Our mission is to:
 
 ## 🖼️ **UI Dashboard & Input Image Uploadation**
 - Upload eye images for analysis. For example:  
-  ![image]([https://github.com/user-attachments/assets/f321a89c-a56b-4118-b8b3-804377bbaa42](https://github.com/Sahiltripathy005/User-assets/blob/dd8a9a55b3d2159065d1954d3c847f94b5c4b47e/Mediscan-AI/1st.png))
+  ![image](https://github.com/Sahiltripathy005/User-assets/blob/dd8a9a55b3d2159065d1954d3c847f94b5c4b47e/Mediscan-AI/1st.png)
 
 
 ---
 
 ## 📈 **Sample Output**
 -
-  ![image]([https://github.com/user-attachments/assets/e4613085-41e9-4f77-8494-f081cf3a2456](https://github.com/Sahiltripathy005/User-assets/blob/dd8a9a55b3d2159065d1954d3c847f94b5c4b47e/Mediscan-AI/2nd.png))
+  ![image](https://github.com/Sahiltripathy005/User-assets/blob/dd8a9a55b3d2159065d1954d3c847f94b5c4b47e/Mediscan-AI/2nd.png))
 
 - Disease detected: **Cataract**  
 - Accuracy: **98.82%**  
